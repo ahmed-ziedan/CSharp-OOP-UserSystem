@@ -1,0 +1,14 @@
+C:\Users\Softlaptop\source\repos\UserManagementSystem\bin\Debug\net8.0\UserManagementSystem.exe
+C:\Users\Softlaptop\source\repos\UserManagementSystem\bin\Debug\net8.0\UserManagementSystem.deps.json
+C:\Users\Softlaptop\source\repos\UserManagementSystem\bin\Debug\net8.0\UserManagementSystem.runtimeconfig.json
+C:\Users\Softlaptop\source\repos\UserManagementSystem\bin\Debug\net8.0\UserManagementSystem.dll
+C:\Users\Softlaptop\source\repos\UserManagementSystem\bin\Debug\net8.0\UserManagementSystem.pdb
+C:\Users\Softlaptop\source\repos\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Softlaptop\source\repos\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Softlaptop\source\repos\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.AssemblyInfo.cs
+C:\Users\Softlaptop\source\repos\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Softlaptop\source\repos\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.dll
+C:\Users\Softlaptop\source\repos\UserManagementSystem\obj\Debug\net8.0\refint\UserManagementSystem.dll
+C:\Users\Softlaptop\source\repos\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.pdb
+C:\Users\Softlaptop\source\repos\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.genruntimeconfig.cache
+C:\Users\Softlaptop\source\repos\UserManagementSystem\obj\Debug\net8.0\ref\UserManagementSystem.dll
